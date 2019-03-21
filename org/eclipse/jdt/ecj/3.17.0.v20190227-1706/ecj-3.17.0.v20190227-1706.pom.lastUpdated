@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Mar 13 08:03:49 NZDT 2019
+#Fri Mar 22 10:11:27 NZDT 2019
 https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1552417429026
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1552417427937
+https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1553202687542
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1553202686405
