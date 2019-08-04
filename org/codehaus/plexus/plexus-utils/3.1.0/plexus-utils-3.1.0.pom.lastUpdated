@@ -1,9 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Mar 22 10:05:59 NZDT 2019
+#Mon Aug 05 08:31:52 NZST 2019
 https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1553202358699
-https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1553202359561
+https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1564950711157
+https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1564950712004
 https\://repo.eclipse.org/content/repositories/cbi/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1553202359820
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1553202357848
+https\://repo.maven.apache.org/maven2/.lastUpdated=1564950712284
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1564950710307
 https\://repo.eclipse.org/content/repositories/eclipse-staging/.error=
