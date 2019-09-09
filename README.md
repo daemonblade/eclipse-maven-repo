@@ -3,6 +3,9 @@
 This project contains maven dependencies required to build
 FreeBSD's /usr/ports/java/eclipse.
 
+It also acts as an alternate MASTER_SITE for Eclipse build
+sources, as git.eclipse.org can be quite erratic.
+
 # Layout
 
 * **README.md** This file
@@ -17,3 +20,8 @@ includes `.cache` and `.meta`.
 1. Copy the contents of `freebsd-eclipse/maven-repo.${VERSION}`
 to the project.
 1. Commit and tag for release to match java/eclipse PORTVERSION
+
+## Releases
+
+1. Commit and tag for release to match java/eclipse PORTVERSION
+1. Add Eclipse sources to the release
