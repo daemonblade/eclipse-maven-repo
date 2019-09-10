@@ -1,9 +1,11 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Aug 05 08:33:31 NZST 2019
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1564950810393
-https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1564950811244
-https\://repo.eclipse.org/content/repositories/cbi/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1564950811587
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1564950809541
+#Tue Sep 10 13:48:06 NZST 2019
 https\://repo.eclipse.org/content/repositories/eclipse-staging/.error=
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1568080083711
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
+https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1568080086259
+https\://repo.eclipse.org/content/repositories/cbi-snapshots/.lastUpdated=1568080085411
+https\://repo.eclipse.org/content/repositories/cbi-snapshots/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1568080086530
+https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1568080084559
+https\://repo.eclipse.org/content/repositories/cbi/.error=

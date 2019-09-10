@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 10 13:27:00 NZST 2019
+org.eclipse.tycho.p2.resolver.shared-1.5.0-20190904.214215-68.jar>tycho-snapshots=
+org.eclipse.tycho.p2.resolver.shared-1.5.0-20190904.214215-68.pom>tycho-snapshots=

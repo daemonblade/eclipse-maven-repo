@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 24 14:48:55 NZST 2019
-org.eclipse.osgi.compatibility.state-1.1.400.jar>central=
+#Tue Sep 10 13:52:53 NZST 2019
 org.eclipse.osgi.compatibility.state-1.1.400.pom>central=
+org.eclipse.osgi.compatibility.state-1.1.400.jar>central=

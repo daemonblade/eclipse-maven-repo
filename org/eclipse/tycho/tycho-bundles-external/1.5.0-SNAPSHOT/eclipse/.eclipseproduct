@@ -1,0 +1,5 @@
+#Eclipse Product File
+#Wed Sep 04 17:45:27 EDT 2019
+version=1.5.0.qualifier
+name=org.eclipse.tycho.p2
+id=tycho-bundles-external

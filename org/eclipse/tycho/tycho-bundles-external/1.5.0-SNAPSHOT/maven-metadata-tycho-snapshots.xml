@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eclipse.tycho</groupId>
+  <artifactId>tycho-bundles-external</artifactId>
+  <version>1.5.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190904.214527</timestamp>
+      <buildNumber>68</buildNumber>
+    </snapshot>
+    <lastUpdated>20190904214527</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>zip</extension>
+        <value>1.5.0-20190904.214527-68</value>
+        <updated>20190904214527</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5.0-20190904.214527-68</value>
+        <updated>20190904214527</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

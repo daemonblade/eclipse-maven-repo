@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eclipse.tycho</groupId>
+  <artifactId>tycho-standalone-p2-director</artifactId>
+  <version>1.5.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190904.214209</timestamp>
+      <buildNumber>68</buildNumber>
+    </snapshot>
+    <lastUpdated>20190904214209</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>zip</extension>
+        <value>1.5.0-20190904.214209-68</value>
+        <updated>20190904214209</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5.0-20190904.214209-68</value>
+        <updated>20190904214209</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>p2metadata</classifier>
+        <extension>xml</extension>
+        <value>1.5.0-20190904.214209-68</value>
+        <updated>20190904214209</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>p2artifacts</classifier>
+        <extension>xml</extension>
+        <value>1.5.0-20190904.214209-68</value>
+        <updated>20190904214209</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
