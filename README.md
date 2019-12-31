@@ -6,10 +6,11 @@ FreeBSD's [/usr/ports/java/eclipse](https://svnweb.freebsd.org/ports/head/java/e
 It also acts as an alternate MASTER_SITE for Eclipse build
 sources, as git.eclipse.org can be quite erratic.
 
-# Layout
+## Layout
 
 * **README.md** This file
 * **p2-stub** Stub file for offline build.
+* Everything else are files for the offline build.
 
 ## Refreshing the Project
 
