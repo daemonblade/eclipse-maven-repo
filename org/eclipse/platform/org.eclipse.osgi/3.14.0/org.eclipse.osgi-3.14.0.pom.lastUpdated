@@ -1,11 +1,11 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 10 13:26:15 NZST 2019
+#Tue Dec 31 15:20:43 NZDT 2019
+https\://repo.eclipse.org/content/repositories/cbi-snapshots/.lastUpdated=1577758842362
+https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1577758843202
+https\://repo.maven.apache.org/maven2/.lastUpdated=1577758843504
+https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1577758841521
 https\://repo.eclipse.org/content/repositories/eclipse-staging/.error=
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1568078772272
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1568078774818
-https\://repo.eclipse.org/content/repositories/cbi-snapshots/.lastUpdated=1568078773965
 https\://repo.eclipse.org/content/repositories/cbi-snapshots/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1568078775080
-https\://repo.eclipse.org/content/repositories/eclipse-staging/.lastUpdated=1568078773119
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
 https\://repo.eclipse.org/content/repositories/cbi/.error=
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1577758840658

@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 10 13:38:29 NZST 2019
-commons-compress-1.18-sources.jar>central=
+#Tue Dec 31 15:29:59 NZDT 2019
 commons-compress-1.18.jar>central=
 commons-compress-1.18.pom>central=
+commons-compress-1.18-sources.jar>central=
