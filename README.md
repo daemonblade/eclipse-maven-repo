@@ -2,6 +2,7 @@
 
 This project contains maven dependencies required to build
 FreeBSD's [/usr/ports/java/eclipse](https://svnweb.freebsd.org/ports/head/java/eclipse/).
+
 It also acts as an alternate MASTER_SITE for Eclipse build
 sources, as git.eclipse.org can be quite erratic.
 
