@@ -10,7 +10,7 @@ sources, as git.eclipse.org can be quite erratic.
 
 * **README.md** This file
 * **p2-stub** Contains stub files for offline build.
-* Everything else are files for the offline build.
+* Everything else are files fetched from a full online build.
 
 ## Refreshing the Project
 
@@ -24,4 +24,4 @@ to the project.
 ## Releases
 
 1. Commit and tag for release to match java/eclipse PORTVERSION
-1. Add Eclipse sources to the release
+1. Add Eclipse source tarballs to the release
