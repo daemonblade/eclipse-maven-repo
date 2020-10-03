@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='ECF p2 Repository' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.atomic.composite.loading' value='true'/>
+  </properties>
+  <children size='8'>
+<child location='3.14.8.v20200522-1203'/>
+<child location='3.14.8.v20200611-2221'/>
+<child location='3.14.9.v20200713-0653'/>
+<child location='3.14.10.v20200713-0804'/>
+<child location='3.14.11.v20200713-1558'/>
+<child location='3.14.12.v20200713-1642'/>
+<child location='3.14.13.v20200812-2314'/>
+<child location='3.14.14.v20200816-1842'/>
+  </children>
+</repository>
