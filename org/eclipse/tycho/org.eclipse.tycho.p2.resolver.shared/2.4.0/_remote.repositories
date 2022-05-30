@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 30 15:11:53 NZST 2022
+org.eclipse.tycho.p2.resolver.shared-2.4.0.jar>central=
+org.eclipse.tycho.p2.resolver.shared-2.4.0.pom>central=
