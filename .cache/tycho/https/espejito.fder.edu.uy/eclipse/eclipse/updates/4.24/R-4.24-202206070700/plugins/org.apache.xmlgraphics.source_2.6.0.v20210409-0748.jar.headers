@@ -1,0 +1,13 @@
+#Fri Jun 24 11:59:11 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 23 Jun 2022 23\:59\:11 GMT
+server=Apache
+content-length=693663
+last-modified=Fri, 10 Jun 2022 15\:40\:43 GMT
+FILE-LAST_UPDATED=1656028751333
+keep-alive=timeout\=15, max\=100
+etag="a959f-5e119c2dba36c"
+connection=Keep-Alive
+content-type=application/x-java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

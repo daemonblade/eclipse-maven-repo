@@ -1,0 +1,12 @@
+#Fri Jun 24 12:00:43 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Fri, 24 Jun 2022 00\:00\:43 GMT
+FILE-LAST_UPDATED=1656028843619
+server=Apache
+last-modified=Fri, 10 Jun 2022 15\:40\:46 GMT
+content-length=49414
+etag="c106-5e119c30b1011"
+connection=close
+content-type=application/java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

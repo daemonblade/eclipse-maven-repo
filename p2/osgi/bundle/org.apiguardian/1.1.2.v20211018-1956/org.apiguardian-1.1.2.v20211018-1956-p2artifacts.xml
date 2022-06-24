@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apiguardian' version='1.1.2.v20211018-1956'>
+    <properties size='8'>
+      <property name='artifact.size' value='20662'/>
+      <property name='download.size' value='20662'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apiguardian'/>
+      <property name='maven-version' value='1.1.2-SNAPSHOT'/>
+      <property name='download.md5' value='65f255791d3b71f450cc4b8a086cfc42'/>
+      <property name='download.checksum.md5' value='65f255791d3b71f450cc4b8a086cfc42'/>
+      <property name='download.checksum.sha-256' value='580e69edcd95da06dd7186ee5f0c44acc480a9add391b23e693cc74c2fde1b32'/>
+    </properties>
+  </artifact>
+</artifacts>

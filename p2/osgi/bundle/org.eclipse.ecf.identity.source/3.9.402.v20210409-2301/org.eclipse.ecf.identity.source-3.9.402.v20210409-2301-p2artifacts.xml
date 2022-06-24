@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.eclipse.ecf.identity.source' version='3.9.402.v20210409-2301'/>
+  <artifact classifier='osgi.bundle' id='org.eclipse.ecf.identity.source' version='3.9.402.v20210409-2301'>
+    <properties size='9'>
+      <property name='artifact.size' value='54357'/>
+      <property name='download.size' value='54357'/>
+      <property name='maven-groupId' value='org.eclipse.ecf'/>
+      <property name='maven-artifactId' value='org.eclipse.ecf.identity'/>
+      <property name='maven-version' value='3.9.402-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='download.md5' value='e1bbbbd044f112bab00c9ef952ffadc4'/>
+      <property name='download.checksum.md5' value='e1bbbbd044f112bab00c9ef952ffadc4'/>
+      <property name='download.checksum.sha-256' value='41bdb8941d69b616332723d6288accb81f175342afc1ef8897856aa773346a21'/>
+    </properties>
+  </artifact>
 </artifacts>

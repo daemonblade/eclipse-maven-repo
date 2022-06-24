@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 11:13:00 NZST 2022
+assertj-core-3.22.0.jar>central=
+assertj-core-3.22.0.pom>central=
+assertj-core-3.22.0-sources.jar>central=

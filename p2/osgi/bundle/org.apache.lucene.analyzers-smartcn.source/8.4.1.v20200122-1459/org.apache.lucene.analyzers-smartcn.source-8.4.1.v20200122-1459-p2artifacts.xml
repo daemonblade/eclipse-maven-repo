@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.apache.lucene.analyzers-smartcn.source' version='8.4.1.v20200122-1459'/>
+  <artifact classifier='osgi.bundle' id='org.apache.lucene.analyzers-smartcn.source' version='8.4.1.v20200122-1459'>
+    <properties size='9'>
+      <property name='artifact.size' value='3615862'/>
+      <property name='download.size' value='3615862'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apache.lucene.analyzers-smartcn'/>
+      <property name='maven-version' value='8.4.1-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='download.md5' value='5c720a1705e40c8d969dbc217e3c4431'/>
+      <property name='download.checksum.md5' value='5c720a1705e40c8d969dbc217e3c4431'/>
+      <property name='download.checksum.sha-256' value='9fc6b614570475775410ef6a846de7271b5fd5c463770f69f33bc9ce07cd6e28'/>
+    </properties>
+  </artifact>
 </artifacts>

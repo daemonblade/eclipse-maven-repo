@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.w3c.dom.events.source' version='3.0.0.draft20060413_v201105210656'/>
+  <artifact classifier='osgi.bundle' id='org.w3c.dom.events.source' version='3.0.0.draft20060413_v201105210656'>
+    <properties size='5'>
+      <property name='artifact.size' value='40493'/>
+      <property name='download.size' value='40493'/>
+      <property name='download.md5' value='e5066d11c7fa67dcd56588dcbeadb179'/>
+      <property name='download.checksum.md5' value='e5066d11c7fa67dcd56588dcbeadb179'/>
+      <property name='download.checksum.sha-256' value='9747df8d8f6f0b96984f2f651f5a40debe54f744ee3f2b190f90d1fb37dd6fa8'/>
+    </properties>
+  </artifact>
 </artifacts>

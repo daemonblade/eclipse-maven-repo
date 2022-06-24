@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.ecf' version='3.10.0.v20210925-0032'>
+    <properties size='8'>
+      <property name='artifact.size' value='131041'/>
+      <property name='download.size' value='131041'/>
+      <property name='maven-groupId' value='org.eclipse.ecf'/>
+      <property name='maven-artifactId' value='org.eclipse.ecf'/>
+      <property name='maven-version' value='3.10.0-SNAPSHOT'/>
+      <property name='download.md5' value='ef0b11555b7d01567ba091d241461794'/>
+      <property name='download.checksum.md5' value='ef0b11555b7d01567ba091d241461794'/>
+      <property name='download.checksum.sha-256' value='6cd26072c671576cbfcb91c8046da3713d7147be1f49c04a4f4644eed17476bb'/>
+    </properties>
+  </artifact>
+</artifacts>

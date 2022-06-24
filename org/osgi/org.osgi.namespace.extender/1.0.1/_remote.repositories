@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 11:13:10 NZST 2022
+org.osgi.namespace.extender-1.0.1.pom>central=
+org.osgi.namespace.extender-1.0.1.jar>central=
+org.osgi.namespace.extender-1.0.1-sources.jar>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 11:13:11 NZST 2022
+org.osgi.util.promise-1.0.0.pom>central=
+org.osgi.util.promise-1.0.0-sources.jar>central=
+org.osgi.util.promise-1.0.0.jar>central=

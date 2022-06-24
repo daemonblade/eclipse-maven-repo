@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.junit.jupiter.engine.source' version='5.8.1.v20211018-1956'>
+    <properties size='9'>
+      <property name='artifact.size' value='149934'/>
+      <property name='download.size' value='149934'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.junit.jupiter.engine'/>
+      <property name='maven-version' value='5.8.1-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='download.md5' value='93ab6d2002eaf1299cb4560d97d053c3'/>
+      <property name='download.checksum.md5' value='93ab6d2002eaf1299cb4560d97d053c3'/>
+      <property name='download.checksum.sha-256' value='9c6eb13d983127289b94bb757f69e98ddc8c4adbeba952203ad255aad4c482a7'/>
+    </properties>
+  </artifact>
+</artifacts>

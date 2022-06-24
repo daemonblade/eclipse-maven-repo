@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='com.sun.jna' version='5.8.0.v20210503-0343'/>
+  <artifact classifier='osgi.bundle' id='com.sun.jna' version='5.8.0.v20210503-0343'>
+    <properties size='8'>
+      <property name='artifact.size' value='1766078'/>
+      <property name='download.size' value='1766078'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='com.sun.jna'/>
+      <property name='maven-version' value='5.8.0-SNAPSHOT'/>
+      <property name='download.md5' value='a18f3bb645d9f3eb344f06c294e7b4ea'/>
+      <property name='download.checksum.md5' value='a18f3bb645d9f3eb344f06c294e7b4ea'/>
+      <property name='download.checksum.sha-256' value='41484dac5b2c3b802cb97a61424e59cd3adcaf4c9bed51f736cf5f47eec0d436'/>
+    </properties>
+  </artifact>
 </artifacts>

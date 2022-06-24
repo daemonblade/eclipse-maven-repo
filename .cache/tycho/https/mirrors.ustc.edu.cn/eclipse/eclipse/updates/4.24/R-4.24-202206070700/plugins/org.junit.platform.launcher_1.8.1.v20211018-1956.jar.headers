@@ -1,0 +1,12 @@
+#Fri Jun 24 11:16:01 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 23 Jun 2022 23\:16\:00 GMT
+FILE-LAST_UPDATED=1656026161073
+server=openresty
+last-modified=Fri, 10 Jun 2022 15\:40\:43 GMT
+content-length=184754
+etag="62a365fb-2d1b2"
+connection=keep-alive
+content-type=application/java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

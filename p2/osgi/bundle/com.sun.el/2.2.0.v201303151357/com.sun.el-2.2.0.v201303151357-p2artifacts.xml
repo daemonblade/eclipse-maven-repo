@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='com.sun.el' version='2.2.0.v201303151357'/>
+  <artifact classifier='osgi.bundle' id='com.sun.el' version='2.2.0.v201303151357'>
+    <properties size='5'>
+      <property name='artifact.size' value='141279'/>
+      <property name='download.size' value='141279'/>
+      <property name='download.md5' value='fba3a3a798f5acb2a45023e8220e079d'/>
+      <property name='download.checksum.md5' value='fba3a3a798f5acb2a45023e8220e079d'/>
+      <property name='download.checksum.sha-256' value='b33dfee193f81ffb15a582299ce641443992ae5dc3fcbe3ce63ab89527f3800a'/>
+    </properties>
+  </artifact>
 </artifacts>

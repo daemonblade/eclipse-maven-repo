@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.tukaani.xz.source' version='1.9.0.v20210624-1259'/>
+  <artifact classifier='osgi.bundle' id='org.tukaani.xz.source' version='1.9.0.v20210624-1259'>
+    <properties size='9'>
+      <property name='artifact.size' value='155029'/>
+      <property name='download.size' value='155029'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.tukaani.xz'/>
+      <property name='maven-version' value='1.9.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='download.md5' value='dd2795790f5652c6644d984e99632184'/>
+      <property name='download.checksum.md5' value='dd2795790f5652c6644d984e99632184'/>
+      <property name='download.checksum.sha-256' value='e46451985fc0967a904d78cbff3afc169bd6f3a1ee63d060c3c4f3da37c1c733'/>
+    </properties>
+  </artifact>
 </artifacts>

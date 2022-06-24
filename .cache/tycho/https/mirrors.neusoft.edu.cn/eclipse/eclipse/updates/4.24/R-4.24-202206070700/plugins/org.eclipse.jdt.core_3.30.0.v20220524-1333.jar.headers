@@ -1,0 +1,12 @@
+#Fri Jun 24 11:23:36 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 23 Jun 2022 23\:23\:36 GMT
+FILE-LAST_UPDATED=1656026616323
+server=nginx/1.20.1
+last-modified=Fri, 10 Jun 2022 15\:40\:35 GMT
+content-length=7017579
+keep-alive=timeout\=20
+etag="62a365f3-6b146b"
+connection=keep-alive
+content-type=application/java-archive
+HTTP_RESPONSE_CODE=200

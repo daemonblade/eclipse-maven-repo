@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon May 30 15:48:35 NZST 2022
+#Fri Jun 24 11:12:39 NZST 2022
 jetty-servlet-api-4.0.6.pom>central=
+jetty-servlet-api-4.0.6-sources.jar>central=
 jetty-servlet-api-4.0.6.jar>central=

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.reddeer.direct' version='4.1.0.v20220309-1055'>
+    <properties size='8'>
+      <property name='artifact.size' value='17573'/>
+      <property name='download.size' value='17573'/>
+      <property name='maven-groupId' value='org.eclipse.reddeer'/>
+      <property name='maven-artifactId' value='org.eclipse.reddeer.direct'/>
+      <property name='maven-version' value='4.1.0-SNAPSHOT'/>
+      <property name='download.md5' value='fdf10d33b6f66d3e7adf8565cfa3b0d6'/>
+      <property name='download.checksum.md5' value='fdf10d33b6f66d3e7adf8565cfa3b0d6'/>
+      <property name='download.checksum.sha-256' value='d041538cfd8ddb6a4cbf30a6ac4a0ceac1d76a80e97d87a0e185c71e6fa17097'/>
+    </properties>
+  </artifact>
+</artifacts>

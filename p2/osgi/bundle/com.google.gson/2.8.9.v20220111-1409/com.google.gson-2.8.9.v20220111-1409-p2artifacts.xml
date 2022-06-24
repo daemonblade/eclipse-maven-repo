@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='com.google.gson' version='2.8.9.v20220111-1409'>
+    <properties size='8'>
+      <property name='artifact.size' value='286610'/>
+      <property name='download.size' value='286610'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='com.google.gson'/>
+      <property name='maven-version' value='2.8.9-SNAPSHOT'/>
+      <property name='download.md5' value='806cc231d43828cea36445785b136374'/>
+      <property name='download.checksum.md5' value='806cc231d43828cea36445785b136374'/>
+      <property name='download.checksum.sha-256' value='6172f4bb010e0d81d27ccd5f7c7c6f32b98bd59ad8ce31300d34a708e1e9b6be'/>
+    </properties>
+  </artifact>
+</artifacts>

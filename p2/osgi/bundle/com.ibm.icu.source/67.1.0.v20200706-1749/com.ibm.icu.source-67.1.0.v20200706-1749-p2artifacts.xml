@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='com.ibm.icu.source' version='67.1.0.v20200706-1749'/>
+  <artifact classifier='osgi.bundle' id='com.ibm.icu.source' version='67.1.0.v20200706-1749'>
+    <properties size='9'>
+      <property name='artifact.size' value='2472214'/>
+      <property name='download.size' value='2472214'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='com.ibm.icu'/>
+      <property name='maven-version' value='67.1.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='download.md5' value='be7821cd9debf1e87d61e66db3e3eb34'/>
+      <property name='download.checksum.md5' value='be7821cd9debf1e87d61e66db3e3eb34'/>
+      <property name='download.checksum.sha-256' value='ccd4d8c0c28ff68fcb26f34ffd5abb8b4e131cab808fc93330195b9d87e715b7'/>
+    </properties>
+  </artifact>
 </artifacts>

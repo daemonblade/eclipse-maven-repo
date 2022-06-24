@@ -9,7 +9,6 @@ sources, as git.eclipse.org can be quite erratic.
 ## Layout
 
 * **README.md** This file
-* **p2-stub** Contains stub files for offline build.
 * Everything else are files fetched from a full online build.
 
 ## Refreshing the Project

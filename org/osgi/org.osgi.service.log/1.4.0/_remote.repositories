@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 11:13:21 NZST 2022
+org.osgi.service.log-1.4.0-sources.jar>central=
+org.osgi.service.log-1.4.0.jar>central=
+org.osgi.service.log-1.4.0.pom>central=

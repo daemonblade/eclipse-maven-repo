@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.slf4j.api' version='1.7.30.v20200204-2150'/>
+  <artifact classifier='osgi.bundle' id='org.slf4j.api' version='1.7.30.v20200204-2150'>
+    <properties size='8'>
+      <property name='artifact.size' value='53068'/>
+      <property name='download.size' value='53068'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.slf4j.api'/>
+      <property name='maven-version' value='1.7.30-SNAPSHOT'/>
+      <property name='download.md5' value='5bb2c4b4ca372fe1d13d34b16fc14501'/>
+      <property name='download.checksum.md5' value='5bb2c4b4ca372fe1d13d34b16fc14501'/>
+      <property name='download.checksum.sha-256' value='f8882f937572ea5cbb5c3266e0e4cf0c6bba2e129260b5355981d29c072dc6eb'/>
+    </properties>
+  </artifact>
 </artifacts>

@@ -1,0 +1,13 @@
+#Fri Jun 24 11:13:55 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 23 Jun 2022 23\:13\:58 GMT
+server=nginx
+content-length=4488
+vary=Accept-Encoding,Accept-Encoding
+strict-transport-security=max-age\=15552000; includeSubDomains; preload
+set-cookie=PHPSESSID\=hhqueo4ikqhibk86v287gvjdr1599h53; path\=/; HttpOnly
+FILE-LAST_UPDATED=1656026035979
+connection=keep-alive
+content-type=text/xml
+cache-control=no-cache
+HTTP_RESPONSE_CODE=200

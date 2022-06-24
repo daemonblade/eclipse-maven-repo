@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.apache.felix.scr' version='2.1.24.v20200924-1939'/>
+  <artifact classifier='osgi.bundle' id='org.apache.felix.scr' version='2.1.24.v20200924-1939'>
+    <properties size='8'>
+      <property name='artifact.size' value='421820'/>
+      <property name='download.size' value='421820'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apache.felix.scr'/>
+      <property name='maven-version' value='2.1.24-SNAPSHOT'/>
+      <property name='download.md5' value='92942929aaf2d54d6b0c91dc2b746492'/>
+      <property name='download.checksum.md5' value='92942929aaf2d54d6b0c91dc2b746492'/>
+      <property name='download.checksum.sha-256' value='a3f49e341837deec9c64adb83f5937621c23730d493cff73b3ffcef23c38d762'/>
+    </properties>
+  </artifact>
 </artifacts>

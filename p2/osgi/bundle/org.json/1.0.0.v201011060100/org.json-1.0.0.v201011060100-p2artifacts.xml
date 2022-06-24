@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.json' version='1.0.0.v201011060100'/>
+  <artifact classifier='osgi.bundle' id='org.json' version='1.0.0.v201011060100'>
+    <properties size='3'>
+      <property name='artifact.size' value='59681'/>
+      <property name='download.size' value='59681'/>
+      <property name='download.md5' value='03b55826a4115a4238ea38b7a2255aa6'/>
+    </properties>
+  </artifact>
 </artifacts>

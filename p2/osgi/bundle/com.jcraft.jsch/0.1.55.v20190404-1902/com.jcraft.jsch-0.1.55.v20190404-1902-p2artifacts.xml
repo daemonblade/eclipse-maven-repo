@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='com.jcraft.jsch' version='0.1.55.v20190404-1902'/>
+  <artifact classifier='osgi.bundle' id='com.jcraft.jsch' version='0.1.55.v20190404-1902'>
+    <properties size='8'>
+      <property name='artifact.size' value='304961'/>
+      <property name='download.size' value='304961'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='com.jcraft.jsch'/>
+      <property name='maven-version' value='0.1.55-SNAPSHOT'/>
+      <property name='download.md5' value='6873fe977e49f6e986c9c017808195db'/>
+      <property name='download.checksum.md5' value='6873fe977e49f6e986c9c017808195db'/>
+      <property name='download.checksum.sha-256' value='b73d0d9fa8069519abd879a6cf6b6385d070ac8cbfeca0fc40ff63ad39c99fd2'/>
+    </properties>
+  </artifact>
 </artifacts>

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 10:33:51 NZST 2022
+p2-maven-plugin-3.0.0-20220623.163826-106.jar>tycho-snapshots=
+p2-maven-plugin-3.0.0-20220623.163826-106.pom>tycho-snapshots=

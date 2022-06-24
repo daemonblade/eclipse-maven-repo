@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.yaml.snakeyaml' version='1.27.0.v20201111-1638'/>
+  <artifact classifier='osgi.bundle' id='org.yaml.snakeyaml' version='1.27.0.v20201111-1638'>
+    <properties size='8'>
+      <property name='artifact.size' value='333092'/>
+      <property name='download.size' value='333092'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.yaml.snakeyaml'/>
+      <property name='maven-version' value='1.27.0-SNAPSHOT'/>
+      <property name='download.md5' value='daebb2f4da71d6dfd4181a13caed548e'/>
+      <property name='download.checksum.md5' value='daebb2f4da71d6dfd4181a13caed548e'/>
+      <property name='download.checksum.sha-256' value='7c4d043b69aad3bbfd35753f264c6c3e065f40ab5021acd803ca6d234a329a83'/>
+    </properties>
+  </artifact>
 </artifacts>

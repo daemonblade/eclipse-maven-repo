@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.junit' version='4.13.2.v20211018-1956'>
+    <properties size='8'>
+      <property name='artifact.size' value='431891'/>
+      <property name='download.size' value='431891'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.junit'/>
+      <property name='maven-version' value='4.13.2-SNAPSHOT'/>
+      <property name='download.md5' value='5bbbc86f06cead087d35e62c78feda09'/>
+      <property name='download.checksum.md5' value='5bbbc86f06cead087d35e62c78feda09'/>
+      <property name='download.checksum.sha-256' value='291c7bdacd8c6f6b450a487cedb9a0de78c71798fb22924d5414203387a7870f'/>
+    </properties>
+  </artifact>
+</artifacts>

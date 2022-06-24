@@ -1,0 +1,13 @@
+#Fri Jun 24 11:13:50 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 23 Jun 2022 23\:13\:52 GMT
+server=nginx
+content-length=50656
+strict-transport-security=max-age\=15552000; includeSubDomains; preload
+last-modified=Tue, 31 May 2022 19\:05\:37 GMT
+FILE-LAST_UPDATED=1656026030406
+connection=keep-alive
+etag="c5e0-5e0537538258c"
+content-type=application/x-xz
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

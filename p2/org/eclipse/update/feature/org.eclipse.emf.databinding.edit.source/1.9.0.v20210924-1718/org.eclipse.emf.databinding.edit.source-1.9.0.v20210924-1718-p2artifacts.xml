@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.emf.databinding.edit.source' version='1.9.0.v20210924-1718'>
+    <properties size='10'>
+      <property name='artifact.size' value='22684'/>
+      <property name='download.size' value='22684'/>
+      <property name='maven-groupId' value='org.eclipse.emf.features'/>
+      <property name='maven-artifactId' value='org.eclipse.emf.databinding.edit'/>
+      <property name='maven-version' value='1.9.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='bae86d6c77107fb4e8a5f460e79566a4'/>
+      <property name='download.checksum.md5' value='bae86d6c77107fb4e8a5f460e79566a4'/>
+      <property name='download.checksum.sha-256' value='20c6af1bea5abc5932bff2ec9c661f2b0f608ab6e6450bcdd003ba2bb91b4501'/>
+    </properties>
+  </artifact>
+</artifacts>

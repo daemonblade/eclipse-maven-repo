@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.ecf.core.feature.source' version='1.6.1.v20211005-1944'>
+    <properties size='10'>
+      <property name='artifact.size' value='21540'/>
+      <property name='download.size' value='21540'/>
+      <property name='maven-groupId' value='org.eclipse.ecf'/>
+      <property name='maven-artifactId' value='org.eclipse.ecf.core.feature'/>
+      <property name='maven-version' value='1.6.1-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='d672bc756c2d6418221f20770014aad0'/>
+      <property name='download.checksum.md5' value='d672bc756c2d6418221f20770014aad0'/>
+      <property name='download.checksum.sha-256' value='03bd6d043985a53154ee1a78a3663e5a4c5eb26553d73304d451f3f53bbc6ba0'/>
+    </properties>
+  </artifact>
+</artifacts>

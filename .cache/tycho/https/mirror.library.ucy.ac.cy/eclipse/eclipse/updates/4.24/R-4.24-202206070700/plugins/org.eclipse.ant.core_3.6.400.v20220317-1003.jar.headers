@@ -1,0 +1,14 @@
+#Fri Jun 24 11:22:24 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 23 Jun 2022 23\:22\:24 GMT
+server=Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+content-length=109972
+strict-transport-security=max-age\=63072000; includeSubdomains
+last-modified=Fri, 10 Jun 2022 15\:40\:47 GMT
+FILE-LAST_UPDATED=1656026544287
+keep-alive=timeout\=2, max\=100
+connection=Keep-Alive
+etag="1ad94-5e119c3220313"
+content-type=application/x-java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

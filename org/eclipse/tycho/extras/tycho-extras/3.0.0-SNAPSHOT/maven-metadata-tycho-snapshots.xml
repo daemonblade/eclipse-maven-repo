@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eclipse.tycho.extras</groupId>
+  <artifactId>tycho-extras</artifactId>
+  <versioning>
+    <lastUpdated>20220623163826</lastUpdated>
+    <snapshot>
+      <timestamp>20220623.163826</timestamp>
+      <buildNumber>167</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.0.0-20220623.163826-167</value>
+        <updated>20220623163826</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>3.0.0-SNAPSHOT</version>
+</metadata>

@@ -1,0 +1,10 @@
+#Fri Jun 24 11:12:11 NZST 2022
+http_status_line=HTTP/1.1 404 Not Found
+date=Thu, 23 Jun 2022 23\:12\:14 GMT
+FILE-LAST_UPDATED=1656025931340
+server=nginx
+transfer-encoding=chunked
+vary=Accept-Encoding
+connection=keep-alive
+content-type=text/html
+HTTP_RESPONSE_CODE=404

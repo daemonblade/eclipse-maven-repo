@@ -1,0 +1,14 @@
+#Fri Jun 24 11:58:52 NZST 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 23 Jun 2022 23\:55\:31 GMT
+server=Apache/2.4.54 (Unix) OpenSSL/1.1.1n
+content-length=239251
+upgrade=h2
+last-modified=Fri, 10 Jun 2022 15\:40\:50 GMT
+FILE-LAST_UPDATED=1656028732515
+keep-alive=timeout\=2, max\=1000
+etag="3a693-5e119c34ccc38"
+connection=Upgrade, Keep-Alive
+content-type=application/x-java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

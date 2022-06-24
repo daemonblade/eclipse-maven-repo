@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.license' version='2.0.2.v20181016-2210'/>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.license' version='2.0.2.v20181016-2210'>
+    <properties size='7'>
+      <property name='artifact.size' value='13361'/>
+      <property name='download.size' value='13361'/>
+      <property name='maven-groupId' value='org.eclipse.license'/>
+      <property name='maven-artifactId' value='org.eclipse.license'/>
+      <property name='maven-version' value='2.0.2-SNAPSHOT'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='1b2c6af4f14e59b8b0b0465e292834c0'/>
+    </properties>
+  </artifact>
 </artifacts>

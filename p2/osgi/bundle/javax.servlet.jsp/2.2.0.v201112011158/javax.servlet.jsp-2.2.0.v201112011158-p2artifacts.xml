@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='javax.servlet.jsp' version='2.2.0.v201112011158'/>
+  <artifact classifier='osgi.bundle' id='javax.servlet.jsp' version='2.2.0.v201112011158'>
+    <properties size='5'>
+      <property name='artifact.size' value='111087'/>
+      <property name='download.size' value='111087'/>
+      <property name='download.md5' value='0953a92c8312213a539d00c32cd1a80c'/>
+      <property name='download.checksum.md5' value='0953a92c8312213a539d00c32cd1a80c'/>
+      <property name='download.checksum.sha-256' value='b12d721846e3bce3b29395d9edabea7d2c3806611ff7870f79fdb6a58c7e2df9'/>
+    </properties>
+  </artifact>
 </artifacts>

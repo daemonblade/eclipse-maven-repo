@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.jdt.launching' version='3.19.600.v20220409-1932'>
+    <properties size='10'>
+      <property name='artifact.size' value='577350'/>
+      <property name='download.size' value='577350'/>
+      <property name='maven-groupId' value='org.eclipse.jdt'/>
+      <property name='maven-artifactId' value='org.eclipse.jdt.launching'/>
+      <property name='maven-version' value='3.19.600-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.jdt.launching/3.19.600.v20220409-1932'/>
+      <property name='download.md5' value='f113e28e5909928a9f1c9d3c681d6976'/>
+      <property name='download.checksum.md5' value='f113e28e5909928a9f1c9d3c681d6976'/>
+      <property name='download.checksum.sha-256' value='bafaef21a62b6d38abffbe350fb407ee2e35bf0f482a77dec0a1d25a75ac2272'/>
+    </properties>
+  </artifact>
+</artifacts>

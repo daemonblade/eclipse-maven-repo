@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.reddeer.uiforms' version='4.1.0.v20220309-1055'>
+    <properties size='8'>
+      <property name='artifact.size' value='41642'/>
+      <property name='download.size' value='41642'/>
+      <property name='maven-groupId' value='org.eclipse.reddeer'/>
+      <property name='maven-artifactId' value='org.eclipse.reddeer.uiforms'/>
+      <property name='maven-version' value='4.1.0-SNAPSHOT'/>
+      <property name='download.md5' value='d3697038dee31b47718d8e60ff8179a8'/>
+      <property name='download.checksum.md5' value='d3697038dee31b47718d8e60ff8179a8'/>
+      <property name='download.checksum.sha-256' value='fcbb48946d8f2d8012f535cdc897f45b29b3aad866f67d257e5eedbdbbe4e78f'/>
+    </properties>
+  </artifact>
+</artifacts>

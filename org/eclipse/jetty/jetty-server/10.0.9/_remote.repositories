@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 11:12:38 NZST 2022
+jetty-server-10.0.9.jar>central=
+jetty-server-10.0.9.pom>central=
+jetty-server-10.0.9-sources.jar>central=

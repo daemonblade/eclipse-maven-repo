@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.command.source' version='1.1.2.v20210111-1007'/>
+  <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.command.source' version='1.1.2.v20210111-1007'>
+    <properties size='9'>
+      <property name='artifact.size' value='39398'/>
+      <property name='download.size' value='39398'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apache.felix.gogo.command'/>
+      <property name='maven-version' value='1.1.2-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='download.md5' value='3a39be3203d48eb85201b5f4ed5c5bb9'/>
+      <property name='download.checksum.md5' value='3a39be3203d48eb85201b5f4ed5c5bb9'/>
+      <property name='download.checksum.sha-256' value='923dec28d1210e76a26cecce14d515447871fa2dd44b5c37238139a51d744cc3'/>
+    </properties>
+  </artifact>
 </artifacts>

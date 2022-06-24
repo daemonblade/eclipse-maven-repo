@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.apache.lucene.core' version='8.4.1.v20200122-1459'/>
+  <artifact classifier='osgi.bundle' id='org.apache.lucene.core' version='8.4.1.v20200122-1459'>
+    <properties size='8'>
+      <property name='artifact.size' value='3487768'/>
+      <property name='download.size' value='3487768'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apache.lucene.core'/>
+      <property name='maven-version' value='8.4.1-SNAPSHOT'/>
+      <property name='download.md5' value='e28a5ef6e1cff831478e95c87995e716'/>
+      <property name='download.checksum.md5' value='e28a5ef6e1cff831478e95c87995e716'/>
+      <property name='download.checksum.sha-256' value='0cd6cabb0c1ac2649a09b387fcd06a76eb476561a5bd9c22c9e5cccc71f9b045'/>
+    </properties>
+  </artifact>
 </artifacts>

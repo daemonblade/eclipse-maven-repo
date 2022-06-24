@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.apache.jasper.glassfish' version='2.2.2.v201501141630'/>
+  <artifact classifier='osgi.bundle' id='org.apache.jasper.glassfish' version='2.2.2.v201501141630'>
+    <properties size='5'>
+      <property name='artifact.size' value='2473000'/>
+      <property name='download.size' value='2473000'/>
+      <property name='download.md5' value='32bfbf835d5b1ab3d8b24a464ba66bf3'/>
+      <property name='download.checksum.md5' value='32bfbf835d5b1ab3d8b24a464ba66bf3'/>
+      <property name='download.checksum.sha-256' value='32ecb15d0524e27d686bdeb52099ceb33d5ad5b5ceeb520182159b8ef50e2455'/>
+    </properties>
+  </artifact>
 </artifacts>

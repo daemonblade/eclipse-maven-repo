@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.ant.source' version='1.10.12.v20211102-1452'>
+    <properties size='5'>
+      <property name='download.size' value='2570135'/>
+      <property name='artifact.size' value='2570135'/>
+      <property name='download.md5' value='bd0f06b30587a75e98c9fb5665650c3b'/>
+      <property name='download.checksum.md5' value='bd0f06b30587a75e98c9fb5665650c3b'/>
+      <property name='download.checksum.sha-256' value='9c513398ef30f086b19288c6b495cddf59572af367e6cd262570d3e0049e8b63'/>
+    </properties>
+  </artifact>
+</artifacts>

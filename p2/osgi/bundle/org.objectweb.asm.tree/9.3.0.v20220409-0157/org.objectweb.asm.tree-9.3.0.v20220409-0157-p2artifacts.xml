@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.objectweb.asm.tree' version='9.3.0.v20220409-0157'>
+    <properties size='8'>
+      <property name='artifact.size' value='66731'/>
+      <property name='download.size' value='66731'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.objectweb.asm.tree'/>
+      <property name='maven-version' value='9.3.0-SNAPSHOT'/>
+      <property name='download.md5' value='d5ae41b69adf009df39b950a3c8e784a'/>
+      <property name='download.checksum.md5' value='d5ae41b69adf009df39b950a3c8e784a'/>
+      <property name='download.checksum.sha-256' value='4630d601fcf6e401e530469fd464923b35d9a7908d77642a3456c56aa938c3ef'/>
+    </properties>
+  </artifact>
+</artifacts>

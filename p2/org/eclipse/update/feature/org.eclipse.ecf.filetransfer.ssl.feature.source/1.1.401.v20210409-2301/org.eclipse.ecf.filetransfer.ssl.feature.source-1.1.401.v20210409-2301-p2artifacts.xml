@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.ecf.filetransfer.ssl.feature.source' version='1.1.401.v20210409-2301'/>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.ecf.filetransfer.ssl.feature.source' version='1.1.401.v20210409-2301'>
+    <properties size='10'>
+      <property name='artifact.size' value='25756'/>
+      <property name='download.size' value='25756'/>
+      <property name='maven-groupId' value='org.eclipse.ecf'/>
+      <property name='maven-artifactId' value='org.eclipse.ecf.filetransfer.ssl.feature'/>
+      <property name='maven-version' value='1.1.401-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='37e70b3ad4364c29f800608c64062781'/>
+      <property name='download.checksum.md5' value='37e70b3ad4364c29f800608c64062781'/>
+      <property name='download.checksum.sha-256' value='e627eaf9d75192126ecf02d19edd68b2df23102b73a100ed2217807a4fd89245'/>
+    </properties>
+  </artifact>
 </artifacts>

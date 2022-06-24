@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 10:32:08 NZST 2022
+org.eclipse.equinox.p2.publisher-1.7.0.jar>central=
+org.eclipse.equinox.p2.publisher-1.7.0.pom>central=

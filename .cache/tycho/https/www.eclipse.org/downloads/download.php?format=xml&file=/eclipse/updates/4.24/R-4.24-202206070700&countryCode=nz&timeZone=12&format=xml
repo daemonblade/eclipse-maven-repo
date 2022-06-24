@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mirrors>	<mirror url="https://mirror.aarnet.edu.au/pub/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Australia] Australian Academic Research Network (https)" />
+	<mirror url="https://mirror.umd.edu/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[United States] University of Maryland (https)" />
+	<mirror url="https://ftp.osuosl.org/pub/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[United States] OSU Open Source Lab (https)" />
+	<mirror url="https://eclipse.mirror.rafal.ca/eclipse/updates/4.24/R-4.24-202206070700" label="[Canada] Rafal Rzeczkowski (https)" />
+	<mirror url="https://mirror.csclub.uwaterloo.ca/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Canada] University of Waterloo Computer Science Club (https)" />
+	<mirror url="https://mirrors.xmission.com/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[United States] XMission Internet (https)" />
+	<mirror url="https://mirrors.jevincanders.net/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[United States] Jevin Canders (https)" />
+	<mirror url="https://mirror.clarkson.edu/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[United States] Clarkson University Open Source Institute (https)" />
+	<mirror url="https://ftp.fau.de/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Germany] University of Erlangen-Nuremberg (https)" />
+	<mirror url="https://eclipse.mirror.garr.it/eclipse/updates/4.24/R-4.24-202206070700" label="[Italy] Consortium GARR (https)" />
+	<mirror url="https://ftp.halifax.rwth-aachen.de/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Germany] RWTH Aachen University (https)" />
+	<mirror url="https://ftp.acc.umu.se/mirror/eclipse.org/eclipse/updates/4.24/R-4.24-202206070700" label="[Sweden] Academic Computer Club, Umea University (https)" />
+	<mirror url="https://mirror.dkm.cz/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Czech Republic] UPC Ceska republika, a.s. (https)" />
+	<mirror url="https://ftp.linux.org.tr/eclipse//eclipse/updates/4.24/R-4.24-202206070700" label="[Turkey] Linux Kullanicilari Dernegi (https)" />
+	<mirror url="https://mirrors.dotsrc.org/eclipse//eclipse/updates/4.24/R-4.24-202206070700" label="[Denmark] dotsrc.org (https)" />
+	<mirror url="https://rhlx01.hs-esslingen.de/pub/Mirrors/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Germany] University of Applied Sciences Esslingen (https)" />
+	<mirror url="https://eclipse.mirror.liteserver.nl/eclipse/updates/4.24/R-4.24-202206070700" label="[Netherlands] LiteServer (https)" />
+	<mirror url="https://mirror.tspu.ru/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Russian Federation] Tomsk State Pedagogical University (https)" />
+	<mirror url="https://ftp.snt.utwente.nl/pub/software/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Netherlands] SNT, University of Twente (https)" />
+	<mirror url="https://mirror.ibcp.fr/pub/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[France] CNRS IBCP (https)" />
+	<mirror url="https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//eclipse/updates/4.24/R-4.24-202206070700" label="[Japan] Yamagata University (https)" />
+	<mirror url="https://mirror.kakao.com/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Korea, Republic Of] Kakao Corp. (https)" />
+	<mirror url="https://ftp.jaist.ac.jp/pub/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Japan] Japan Advanced Institute of Science and Technology (https)" />
+	<mirror url="https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Japan] Yamagata University (https)" />
+	<mirror url="https://mirrors.neusoft.edu.cn/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[China] Dalian Neusoft University of Information (大连东软信息学院) (https)" />
+	<mirror url="https://mirror.library.ucy.ac.cy/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Cyprus] University of Cyprus, Library (https)" />
+	<mirror url="https://mirrors.ustc.edu.cn/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[China] University of Science and Technology of China (https)" />
+	<mirror url="https://eclipse.c3sl.ufpr.br/eclipse/updates/4.24/R-4.24-202206070700" label="[Brazil] C3SL - Federal University of Parana (https)" />
+	<mirror url="https://espejito.fder.edu.uy/eclipse/eclipse/updates/4.24/R-4.24-202206070700" label="[Uruguay] Facultad de Derecho - UdelaR (https)" />
+</mirrors>

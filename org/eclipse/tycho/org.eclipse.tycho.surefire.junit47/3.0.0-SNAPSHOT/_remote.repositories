@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 11:10:48 NZST 2022
+org.eclipse.tycho.surefire.junit47-3.0.0-20220623.163826-168.pom>tycho-snapshots=
+org.eclipse.tycho.surefire.junit47-3.0.0-20220623.163826-168.jar>tycho-snapshots=

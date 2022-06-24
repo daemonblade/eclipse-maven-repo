@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.junit.jupiter.migrationsupport.source' version='5.8.1.v20211018-1956'>
+    <properties size='9'>
+      <property name='artifact.size' value='40745'/>
+      <property name='download.size' value='40745'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.junit.jupiter.migrationsupport'/>
+      <property name='maven-version' value='5.8.1-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='download.md5' value='84c2e0d6efe8254f420698815dda6c46'/>
+      <property name='download.checksum.md5' value='84c2e0d6efe8254f420698815dda6c46'/>
+      <property name='download.checksum.sha-256' value='350a5e5eff61537660385a9fc492bbe8ee9ffd138d40430a97413fa85fe2b960'/>
+    </properties>
+  </artifact>
+</artifacts>

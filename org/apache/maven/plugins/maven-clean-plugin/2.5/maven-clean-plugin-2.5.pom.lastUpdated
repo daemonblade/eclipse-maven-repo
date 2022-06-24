@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon May 30 15:58:21 NZST 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1653883101762
+#Fri Jun 24 12:05:26 NZST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1656029126864
 https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1653883101210
+https\://repo.eclipse.org/content/repositories/dash-licenses-snapshots/.lastUpdated=1656029126154
+https\://repo.eclipse.org/content/repositories/dash-licenses-snapshots/.error=
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1656029125943

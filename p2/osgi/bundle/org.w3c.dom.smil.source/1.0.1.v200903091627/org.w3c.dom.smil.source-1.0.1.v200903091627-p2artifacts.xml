@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.w3c.dom.smil.source' version='1.0.1.v200903091627'/>
+  <artifact classifier='osgi.bundle' id='org.w3c.dom.smil.source' version='1.0.1.v200903091627'>
+    <properties size='5'>
+      <property name='artifact.size' value='22302'/>
+      <property name='download.size' value='22302'/>
+      <property name='download.md5' value='f2412682269eeb4a8bd0dd77ba460c61'/>
+      <property name='download.checksum.md5' value='f2412682269eeb4a8bd0dd77ba460c61'/>
+      <property name='download.checksum.sha-256' value='5cbabd1d748efd304de23b274a94bda7cfa96758c5423339fab0bb23e44d2383'/>
+    </properties>
+  </artifact>
 </artifacts>

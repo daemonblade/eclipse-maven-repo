@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
 <artifacts size='1'>
-  <artifact classifier='osgi.bundle' id='org.apache.commons.logging' version='1.2.0.v20180409-1502'/>
+  <artifact classifier='osgi.bundle' id='org.apache.commons.logging' version='1.2.0.v20180409-1502'>
+    <properties size='8'>
+      <property name='artifact.size' value='73163'/>
+      <property name='download.size' value='73163'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apache.commons.logging'/>
+      <property name='maven-version' value='1.2.0-SNAPSHOT'/>
+      <property name='download.md5' value='d9257298a954cfda415b45a8e82fe717'/>
+      <property name='download.checksum.md5' value='d9257298a954cfda415b45a8e82fe717'/>
+      <property name='download.checksum.sha-256' value='62efdae1766f89278400ac26132af0f750cc8200c220ed602d527c564677faa2'/>
+    </properties>
+  </artifact>
 </artifacts>
